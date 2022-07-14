@@ -3,6 +3,7 @@ channels:
 
 dependencies:
   - jupyter_contrib_nbextensions==0.5.1
+  - jupyterhub==2.3.1
   - numpy
   - matplotlib
   - scipy

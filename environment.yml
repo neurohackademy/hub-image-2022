@@ -9,3 +9,10 @@ dependencies:
   - matplotlib
   - scipy
   - pandas
+  - tqdm
+  - s3fs
+  - awscli
+  - scikit-learn
+  - pip:
+    - pymef
+    - datalad

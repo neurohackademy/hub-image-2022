@@ -9,8 +9,9 @@ dependencies:
   - matplotlib
   - scipy
   - pandas
-  - pymef
   - tqdm
   - s3fs
   - awscli
   - scikit-learn
+  - pip:
+    - pymef

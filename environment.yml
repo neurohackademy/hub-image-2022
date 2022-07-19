@@ -13,3 +13,4 @@ dependencies:
   - tqdm
   - s3fs
   - awscli
+  - scikit-learn

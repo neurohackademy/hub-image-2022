@@ -11,3 +11,5 @@ dependencies:
   - pandas
   - pymef
   - tqdm
+  - s3fs
+  - awscli

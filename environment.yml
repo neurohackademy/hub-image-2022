@@ -16,3 +16,9 @@ dependencies:
   - pip:
     - pymef
     - datalad
+    - pybids
+    - nipype
+    - neuropythy
+    - dipy
+    - mne
+    - nilearn

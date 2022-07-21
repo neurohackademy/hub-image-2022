@@ -16,6 +16,7 @@ dependencies:
   - datalad
   - singularity
   - pip:
+    - nbgitpuller
     - pymef
     - pybids
     - nipype

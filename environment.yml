@@ -14,7 +14,9 @@ dependencies:
   - awscli
   - scikit-learn
   - datalad
+  - singularity
   - pip:
+    - nbgitpuller
     - pymef
     - pybids
     - nipype

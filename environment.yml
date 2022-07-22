@@ -18,7 +18,6 @@ dependencies:
   - singularity
   - altair
   - seaborn
-  - dask
   - graphviz
   - pygraphviz
   - pip:
@@ -30,3 +29,4 @@ dependencies:
     - dipy
     - mne
     - nilearn
+    - dask[complete]

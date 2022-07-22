@@ -27,3 +27,4 @@ dependencies:
     - dipy
     - mne
     - nilearn
+    - requests==2.28.1

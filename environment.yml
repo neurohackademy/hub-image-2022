@@ -18,6 +18,8 @@ dependencies:
   - singularity
   - altair
   - seaborn
+  - graphviz
+  - pygraphviz
   - pip:
     - nbgitpuller
     - pymef
@@ -27,4 +29,5 @@ dependencies:
     - dipy
     - mne
     - nilearn
+    - dask[complete]
     - requests==2.28.1

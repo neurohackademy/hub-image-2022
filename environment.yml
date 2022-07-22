@@ -18,6 +18,9 @@ dependencies:
   - singularity
   - altair
   - seaborn
+  - dask
+  - graphviz
+  - pygraphviz
   - pip:
     - nbgitpuller
     - pymef

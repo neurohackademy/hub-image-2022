@@ -20,6 +20,9 @@ dependencies:
   - seaborn
   - graphviz
   - pygraphviz
+  - jax
+  - numba
+  - cython
   - pip:
     - nbgitpuller
     - pymef

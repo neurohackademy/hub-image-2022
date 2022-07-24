@@ -21,6 +21,7 @@ dependencies:
   - seaborn
   - graphviz
   - pygraphviz
+  - python-graphviz
   - jax
   - numba
   - cython

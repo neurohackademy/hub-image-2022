@@ -38,3 +38,4 @@ dependencies:
     - osfclient
     - line_profiler
     - memory_profiler
+    - black

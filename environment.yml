@@ -1,5 +1,6 @@
 channels:
   - conda-forge
+  - pytorch
 
 dependencies:
   - jupyter_contrib_nbextensions==0.5.1
@@ -23,6 +24,8 @@ dependencies:
   - jax
   - numba
   - cython
+  - pytorch
+  - torchvision
   - pip:
     - nbgitpuller
     - pymef

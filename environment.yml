@@ -1,6 +1,7 @@
 channels:
   - conda-forge
   - pytorch
+  - hcc
 
 dependencies:
   - jupyter_contrib_nbextensions==0.5.1
@@ -29,6 +30,7 @@ dependencies:
   - torchvision
   - dcm2niix
   - openneuro-py
+  - freesurfer
   - pip:
     - nbgitpuller
     - pymef

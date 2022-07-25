@@ -27,6 +27,8 @@ dependencies:
   - cython
   - pytorch
   - torchvision
+  - dcm2niix
+  - openneuro-py
   - pip:
     - nbgitpuller
     - pymef

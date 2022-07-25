@@ -2,6 +2,7 @@ channels:
   - conda-forge
   - pytorch
   - hcc
+  - anaconda
 
 dependencies:
   - jupyter_contrib_nbextensions==0.5.1

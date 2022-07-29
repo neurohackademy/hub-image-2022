@@ -47,3 +47,4 @@ dependencies:
     - black
     - mne_bids
     - ipympl
+    - pyfftw

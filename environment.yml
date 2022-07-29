@@ -45,3 +45,6 @@ dependencies:
     - line_profiler
     - memory_profiler
     - black
+    - mne_bids
+    - ipympl
+    - pyfftw

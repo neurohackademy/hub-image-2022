@@ -29,6 +29,8 @@ dependencies:
   - torchvision
   - dcm2niix
   - openneuro-py
+  - ipyvolume
+  - nodejs
   - pip:
     - nbgitpuller
     - pymef
@@ -48,3 +50,4 @@ dependencies:
     - mne_bids
     - ipympl
     - pyfftw
+    - pliers

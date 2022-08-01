@@ -21,11 +21,14 @@ dependencies:
   - seaborn
   - graphviz
   - pygraphviz
+  - python-graphviz
   - jax
   - numba
   - cython
   - pytorch
   - torchvision
+  - dcm2niix
+  - openneuro-py
   - ipyvolume
   - nodejs
   - pip:
@@ -44,4 +47,7 @@ dependencies:
     - line_profiler
     - memory_profiler
     - black
+    - mne_bids
+    - ipympl
+    - pyfftw
     - pliers

@@ -26,6 +26,8 @@ dependencies:
   - cython
   - pytorch
   - torchvision
+  - ipyvolume
+  - nodejs
   - pip:
     - nbgitpuller
     - pymef
@@ -42,3 +44,4 @@ dependencies:
     - line_profiler
     - memory_profiler
     - black
+    - pliers

@@ -1,6 +1,7 @@
 channels:
   - conda-forge
   - pytorch
+  - bioconda
 
 dependencies:
   - jupyter_contrib_nbextensions==0.5.1
@@ -28,6 +29,7 @@ dependencies:
   - torchvision
   - ipyvolume
   - nodejs
+  - pymvpa
   - pip:
     - nbgitpuller
     - pymef
@@ -45,3 +47,4 @@ dependencies:
     - memory_profiler
     - black
     - pliers
+    - duecredit

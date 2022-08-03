@@ -33,6 +33,7 @@ dependencies:
   - ipyvolume
   - nodejs
   - pymvpa
+  - s5cmd
   - pip:
     - nbgitpuller
     - pymef

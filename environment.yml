@@ -34,6 +34,7 @@ dependencies:
   - nodejs
   - pymvpa
   - s5cmd
+  - imbalanced-learn
   - pip:
     - nbgitpuller
     - pymef
